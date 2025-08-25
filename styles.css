@@ -603,7 +603,7 @@
   }
   
   .cart-footer {
-    padding: 20px;
+    padding: 80px;
     border-top: 1px solid #eee;
   }
   
@@ -615,7 +615,7 @@
   
   .checkout-btn {
     width: 100%;
-    padding: 15px;
+    padding: 20px;
     background: #25d366;
     color: white;
     border: none;
