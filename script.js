@@ -136,7 +136,7 @@ function checkout() {
   message += "• Observações adicionais:\n\n"
   message += "✅ *Confirme seus dados e aguarde nosso contato!*"
 
-  const whatsappUrl = `https://wa.me/5583991806282?text=${encodeURIComponent(message)}`
+  const whatsappUrl = `https://wa.me/5583988917159?text=${encodeURIComponent(message)}`
   window.open(whatsappUrl, "_blank")
 
   // Clear cart after checkout
