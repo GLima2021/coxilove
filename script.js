@@ -131,9 +131,7 @@ function checkout() {
   message += "( ) PIX\n"
   message += "( ) Cartão de Débito\n"
   message += "( ) Cartão de Crédito\n\n"
-  message += "*⏰ OBSERVAÇÕES:*\n"
-  message += "• Horário de preferência para entrega:\n"
-  message += "• Observações adicionais:\n\n"
+  
   message += "✅ *Confirme seus dados e aguarde nosso contato!*"
 
   const whatsappUrl = `https://wa.me/5583988917159?text=${encodeURIComponent(message)}`
